@@ -2,7 +2,7 @@
 
 ## Bibliotecas Madrinas
 
-##Resumen
+## Resumen
 
 Es un movimiento que contribuye al desarrollo de comunidades de aprendizaje y facilita los vínculos entre bibliotecas, instituciones y personas para crear espacios de entendimiento y colaboración.
 
